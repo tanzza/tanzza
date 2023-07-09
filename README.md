@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Sinha</h1>
-<h3 align="center">A passionate frontend developer and pursuing Bachelor's of Technology in Computer Science and Engineeringng.Presently ,</h3>
+<h3 align="center">A passionate frontend developer and pursuing Bachelor's of Technology in Computer Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzza&label=Profile%20views&color=0e75b6&style=flat" alt="tanzza" /> </p>
 
